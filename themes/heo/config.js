@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.kaolakk.com' },
+    { title: '欢迎来到我的博客', url: 'https://cccweb3.com' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,10 +19,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享Web3',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'blog.kaolakk.com',
+  HEO_HERO_TITLE_3: 'cccweb3.com',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '分享Web3与思维认知',
-  HEO_HERO_TITLE_LINK: 'https://blog.kaolakk.com',
+  HEO_HERO_TITLE_LINK: 'https://www.cccweb3.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
